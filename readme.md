@@ -8,11 +8,11 @@ Este repositório contém a minha jornada pessoal para me tornar um **programado
 
 <pre>
 Desafios/
-├── C/ → Sudoku.c
-├── C++/ → Sudoku.cpp
-├── Java/ → Sudoku.java
-├── NodeJS/ → Sudoku.mjs
-├── Python/ → Sudoku.py
+├── C/ → /Pasta
+├── C++/ → /Pasta
+├── Java/ → /Pasta
+├── NodeJS/ → /Pasta
+├── Python/ → /Pasta
 └── README.md → este arquivo
 </pre>
 ---
