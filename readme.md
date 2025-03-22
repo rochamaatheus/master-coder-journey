@@ -1,11 +1,12 @@
-# 🔢 Sudoku Solver + Desafios Intensivos | Programador 100x Melhor
+# 🔢 Desafios Intensivos | Programador 100x Melhor
 
 Este repositório contém a minha jornada pessoal para me tornar um **programador 100x melhor**, resolvendo desafios progressivos em várias linguagens. Cada desafio é focado em lógica, estrutura, performance e arquitetura — e aqui você acompanha tudo sendo feito **na unha**, sem copiar código e sem atalho.
 
 ---
 
-## 📂 Estrutura
+## 📂 Estrutura (exemplo)
 
+<pre>
 Desafios/
 ├── C/ → Sudoku.c
 ├── C++/ → Sudoku.cpp
@@ -13,7 +14,7 @@ Desafios/
 ├── NodeJS/ → Sudoku.mjs
 ├── Python/ → Sudoku.py
 └── README.md → este arquivo
-
+</pre>
 ---
 
 ## 🎯 Desafios do Plano Intensivo
@@ -25,7 +26,6 @@ Desafios/
 - [ ] Resolver problemas de recursão complexos (Torre de Hanói, Sudoku Solver, N-Queens)
 - [ ] Implementar seu próprio sistema de busca binária e árvore AVL balanceada
 - [ ] Criar um simulador de autômatos celulares (Jogo da Vida de Conway)
-- [ ] Resolver 5 problemas por dia no Codeforces (Div 2 ou superior)
 
 ### 🔄 Fase 2: Estruturas de Dados e Eficiência
 
