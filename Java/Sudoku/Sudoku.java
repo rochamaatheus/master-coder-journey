@@ -1,4 +1,4 @@
-package sudoku;
+package Desafios.Java.Sudoku;
 
 public class Sudoku {
   static int[][] board = {
